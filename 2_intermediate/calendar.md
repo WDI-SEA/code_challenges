@@ -204,3 +204,32 @@ prettyPrint(new Date('09/11/1985'));
 
 > "The date 09/11/1985 was a Wednesday"
 
+### Starter Code
+
+#### JavaScript ES5 and below
+
+```JavaScript
+function prettyPrint(date){
+    // Your code here
+}
+```
+
+#### JavaScript ES6+
+
+```JavaScript
+const prettyPrint = (date) => {
+    // Your code here
+}
+```
+
+#### Python
+
+```python
+def pretty_print(date):
+    # Your code here
+```
+
+## Answers
+
+This is a work in progress! Eventually there will be a solutions branch with JavaScript and Python solutions for all problems and sub-problems. Until then, your instructor will go over the solution in the language of choice.
+
